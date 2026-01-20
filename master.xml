@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="MasterSuite">
+    <listeners>
+        <listener class-name="Utilities.ExtentReportManager"/>
+        <listener class-name="org.testng.reporters.XMLReporter"/>
+        <listener class-name="org.testng.reporters.FailedReporter"/>
+        <listener class-name="org.testng.reporters.EmailableReporter2"/>
+    </listeners>
+    <test thread-count="2" name="Test1">
+        <parameter name="os" value="mac"> </parameter>
+        <parameter name="browser" value="chrome"> </parameter>
+
+        <classes>
+            <class name="testCases.TC1_AccountRegistration"/>
+            <class name="testCases.TC2_Login"/>
+            <!--class name="testCases.Login_DDT"/>-->
+
+
+        </classes>
+    </test> <!-- Test -->
+
+
+</suite> <!-- Suite -->
+
+
+<!-- named it master.xml because this is the file wherein we can run any
+      test case with the desired browser-->

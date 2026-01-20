@@ -1,0 +1,58 @@
+23:33:03.896 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:33:18.118 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:33:18.172 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:33:20.478 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:33:20.483 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:33:23.733 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:34:34.831 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/exly/Desktop/Exly/PracticeProject1/crossbrowsertesting.xml
+
+23:34:38.092 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:34:38.154 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:34:40.191 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:34:40.196 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:34:43.039 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:34:57.605 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:34:57.676 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:35:00.189 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:35:00.203 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:35:06.190 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:35:25.459 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/exly/Desktop/Exly/PracticeProject1/crossbrowsertesting.xml
+
+23:35:30.366 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:35:30.447 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:35:32.853 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:35:32.855 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:35:36.060 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:37:27.463 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/exly/Desktop/Exly/PracticeProject1/crossbrowsertesting.xml
+
+23:37:30.828 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:37:30.886 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:37:32.927 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:37:32.936 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:37:35.603 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:37:49.238 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:37:49.319 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:37:51.622 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:37:51.626 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:37:54.760 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+00:05:31.448 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/exly/Desktop/Exly/PracticeProject1/crossbrowsertesting.xml
+
+00:05:35.950 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+00:05:36.078 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+00:05:38.131 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+00:05:38.145 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+00:05:41.288 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+00:05:56.480 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+00:05:56.602 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+00:05:58.991 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+00:05:58.996 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+00:06:02.208 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+00:06:12.757 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+00:06:12.810 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+00:06:15.199 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+00:06:15.201 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+00:06:18.447 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***

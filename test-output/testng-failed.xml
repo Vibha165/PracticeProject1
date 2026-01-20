@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="Utilities.ExtentReportManager"/>
+    <listener class-name="org.testng.reporters.XMLReporter"/>
+    <listener class-name="org.testng.reporters.FailedReporter"/>
+    <listener class-name="org.testng.reporters.EmailableReporter2"/>
+  </listeners>
+  <test thread-count="2" name="Test1(failed)">
+    <parameter name="os" value="mac"/>
+    <parameter name="browser" value="safari"/>
+    <classes>
+      <class name="testCases.TC1_AccountRegistration">
+        <methods>
+          <include name="tearDown"/>
+          <include name="accountRegistration"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC1_AccountRegistration -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

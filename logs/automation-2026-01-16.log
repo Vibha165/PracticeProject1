@@ -1,0 +1,63 @@
+23:14:17.825 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:14:17.837 [main] ERROR testCases.TC1_AccountRegistration - Test failed due to exception
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source)
+	at pageObject.HomePage.accountDropdown(HomePage.java:25)
+	at testCases.TC1_AccountRegistration.accountRegistration(TC1_AccountRegistration.java:17)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+23:14:21.057 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:14:21.160 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:14:23.530 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:14:23.536 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:14:26.921 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:24:53.348 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/exly/Desktop/Exly/PracticeProject1/crossbrowsertesting.xml
+
+23:24:57.449 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:24:57.525 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:24:59.828 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:24:59.832 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:25:03.159 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:31:16.827 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/exly/Desktop/Exly/PracticeProject1/crossbrowsertesting.xml
+
+23:31:21.773 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:31:21.863 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:31:24.193 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:31:24.201 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:31:27.716 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:32:55.168 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/exly/Desktop/Exly/PracticeProject1/crossbrowsertesting.xml
+
+23:32:58.617 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:32:58.713 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:33:00.748 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:33:00.755 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***

@@ -1,0 +1,65 @@
+23:21:14.077 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/exly/Desktop/Exly/PracticeProject1/master.xml
+
+23:21:17.468 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:21:17.527 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:21:19.823 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:21:19.826 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:21:23.160 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:21:25.778 [main] INFO  testCases.TC2_Login - *** starting test execution***
+23:21:28.293 [main] ERROR testCases.TC2_Login - test failed due to this error message New Customer :
+23:31:56.625 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/exly/Desktop/Exly/PracticeProject1/master.xml
+
+23:32:00.767 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:32:00.827 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:32:03.249 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:32:03.253 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:32:05.640 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:32:08.211 [main] INFO  testCases.TC2_Login - *** starting test execution***
+23:32:11.379 [main] ERROR testCases.TC2_Login - test failed due to this error message New Customer :
+23:32:56.415 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/exly/Desktop/Exly/PracticeProject1/master.xml
+
+23:33:00.068 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:33:00.127 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:33:02.536 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:33:02.539 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:33:05.940 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:33:09.249 [main] INFO  testCases.TC2_Login - *** starting test execution***
+23:33:11.798 [main] ERROR testCases.TC2_Login - test failed due to this error message New Customer :
+23:35:54.048 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/exly/Desktop/Exly/PracticeProject1/master.xml
+
+23:35:58.025 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:35:58.094 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:36:00.611 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:36:00.617 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:36:03.910 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:36:06.374 [main] INFO  testCases.TC2_Login - *** starting test execution***
+23:36:09.638 [main] ERROR testCases.TC2_Login - test failed due to this error message New Customer :
+23:37:00.593 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/exly/Desktop/Exly/PracticeProject1/master.xml
+
+23:37:04.269 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:37:04.325 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:37:06.662 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:37:06.665 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:37:09.802 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:37:11.966 [main] INFO  testCases.TC2_Login - *** starting test execution***
+23:37:14.481 [main] ERROR testCases.TC2_Login - test failed due to this error message New Customer :
+23:41:10.647 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/exly/Desktop/Exly/PracticeProject1/master.xml
+
+23:41:14.539 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:41:14.598 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
+23:41:16.923 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on register button ***
+23:41:16.926 [main] INFO  testCases.TC1_AccountRegistration - *** starting to fill the register form ***
+23:41:20.350 [main] INFO  testCases.TC1_AccountRegistration - *** finished account registration ***
+23:41:22.840 [main] INFO  testCases.TC2_Login - *** starting test execution***
+23:41:25.364 [main] ERROR testCases.TC2_Login - test failed due to this error message New Customer :
+23:52:34.264 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/exly/Desktop/Exly/PracticeProject1/grouping.xml
+
+23:52:38.615 [main] INFO  testCases.TC1_AccountRegistration - *** starting the test ***
+23:52:38.683 [main] INFO  testCases.TC1_AccountRegistration - *** clicked on account dropdown ***
